@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Nicholas Micallef
 
-I'm a Backend Developer with extensive experience in the logistics industry, specializing in creating robust and scalable backend systems. My technical expertise spans a variety of technologies, with a strong focus on Node.js, JavaScript, TypeScript, and MongoDB.
+As a backend developer with extensive experience in the logistics industry, I specialize in implementing robust and scalable backend systems. My technical proficiency spans a variety of technologies, with a strong focus on Node.js, JavaScript, TypeScript, and MongoDB.
 
-In my current role, I have the privilege of leading a team of 16 skilled backend specialists, where we drive innovation and deliver high-quality solutions. I've successfully implemented a scalable architecture capable of handling high volumes, enhancing both performance and reliability across the board.
+In my current role, I lead and mentor a talented team of backend specialists, driving innovation and ensuring the delivery of high-quality solutions. I have successfully implemented a scalable architecture capable of handling high volumes, and optimizing performance and reliability across the board.
 
-My skills extend beyond my core stack to include several other database technologies like SQL, PostgreSQL, and Snowflake. I'm also proficient in advanced caching and messaging solutions, such as Redis, RabbitMQ, and Kafka, which help me build efficient, high-performance systems.
+In addition to my core skills, I am well-versed in several other database technologies, including SQL, PostgreSQL, and Snowflake. My expertise also extends to advanced caching and messaging solutions such as Redis, RabbitMQ, and Kafka, enabling me to build efficient and high-performance systems.
 
-Driven by a passion for continuous learning and improvement, I thrive in dynamic environments and enjoy contributing to innovative projects with exceptional results.
+Driven by a passion for continuous learning and improvement, I thrive in dynamic environments where I can contribute to innovative projects and deliver exceptional results.
 
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-micallef-3386b651/) / [LinkedIn](https://www.linkedin.com/company/siliconbyte-io)
