@@ -10,7 +10,7 @@ Driven by a passion for continuous learning and improvement, I thrive in dynamic
 
 
 ## How to reach me.... 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-micallef-3386b651/) / [LinkedIn](https://www.linkedin.com/company/siliconbyte-io)
+📫 Connect with me on [LinkedIn - nichmica](https://www.linkedin.com/in/nicholas-micallef-3386b651/) / [LinkedIn - siliconbyte.io](https://www.linkedin.com/company/siliconbyte-io)
 
 📧 Reach me at: nichmica@gmail.com / siliconbyte.io@gmail.com
 
