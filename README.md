@@ -37,7 +37,6 @@ Driven by a passion for continuous learning and improvement, I thrive in dynamic
 <img height="40" align="center" alt="Kafka" width="40" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" align="center" alt="Jest" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-
 </div>
 
 <!--
