@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nicholas Micallef
+<img width="1726" alt="image" src="https://github.com/user-attachments/assets/f46b6b1f-66de-4b53-9725-b7ada28d0f0e" />## Hi there 👋 I'm Nicholas Micallef
 
 As a backend developer with extensive experience in the logistics industry, I specialize in implementing robust and scalable backend systems. My technical proficiency spans a variety of technologies, with a strong focus on Node.js, JavaScript, TypeScript, and MongoDB.
 
@@ -12,7 +12,7 @@ Driven by a passion for continuous learning and improvement, I thrive in dynamic
 ## How to reach me.... 
 📫 Connect with me on [LinkedIn - nichmica](https://www.linkedin.com/in/nicholas-micallef-3386b651/) / [LinkedIn - siliconbyte.io](https://www.linkedin.com/company/siliconbyte-io)
 
-📧 Reach me at: nichmica@gmail.com / siliconbyte.io@gmail.com
+📧 Reach me at: nichmica@gmail.com / siliconbyte.io@gmail.com / nicholas@devtrix.eu
 
 
 
